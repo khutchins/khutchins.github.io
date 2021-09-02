@@ -2,7 +2,7 @@ This is a summary of my projects that I think are publicly interesting, with the
 
 ---
 
-![menutee](https://user-images.githubusercontent.com/1243720/131858953-e7e42b29-b836-4721-86c6-27812b124027.jpg)
+[![menutee](https://user-images.githubusercontent.com/1243720/131858953-e7e42b29-b836-4721-86c6-27812b124027.jpg)](https://github.com/khutchins/menutee)
 
 ## [Menutee](https://github.com/khutchins/menutee)
 
