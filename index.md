@@ -1,5 +1,3 @@
-# Kevin Hutchins
-
 This is a summary of my projects that I think are publicly interesting, with the primary purpose of actually having search engines pick them up. Most likely out of date and with images way to big for pleasant reading.
 
 ---
