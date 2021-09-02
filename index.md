@@ -10,11 +10,11 @@ A library for Unity that make it easy to generate and maintain a simple menu thr
 
 ---
 
-## Phaser 3 Dead Zone Demo
+## [Phaser 3 Dead Zone Demo](https://github.com/khutchins/phaser-dead-zone-demo)
 
 A Phaser 3 project that demos different types of controller dead zones. Click [https://blog.khutchins.com/posts/phaser-3-inputs-ab/](here) to see it in action.
 
-## Phaser 3 Controller Vibration Deom
+## [Phaser 3 Controller Vibration Demo](https://github.com/khutchins/phaser-vibration-demo)
 
 A Phaser 3 project that demos vibrations in Chrome (I couldn't get the Firefox API to work, but it should magically work if Firefox honors their existing API). Click [https://blog.khutchins.com/posts/phaser-3-inputs-ac/] here to see it in action.
 
