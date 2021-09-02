@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Kevin Hutchins
 
-You can use the [editor on GitHub](https://github.com/khutchins/khutchins.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a summary of my projects that I think are publicly interesting, with the primary purpose of actually having search engines pick them up. Most likely out of date and with images way to big for pleasant reading.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+![menutee](https://user-images.githubusercontent.com/1243720/131858953-e7e42b29-b836-4721-86c6-27812b124027.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Menutee](https://github.com/khutchins/menutee)
 
-```markdown
-Syntax highlighted code block
+A library for Unity that make it easy to generate and maintain a simple menu through code.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## Phaser 3 Dead Zone Demo
 
-1. Numbered
-2. List
+A Phaser 3 project that demos different types of controller dead zones. Click [https://blog.khutchins.com/posts/phaser-3-inputs-ab/](here) to see it in action.
 
-**Bold** and _Italic_ and `Code` text
+## Phaser 3 Controller Vibration Deom
 
-[Link](url) and ![Image](src)
-```
+A Phaser 3 project that demos vibrations in Chrome (I couldn't get the Firefox API to work, but it should magically work if Firefox honors their existing API). Click [https://blog.khutchins.com/posts/phaser-3-inputs-ac/] here to see it in action.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## ComicMerge
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khutchins/khutchins.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A python script I wrote years ago that allows you to merge multiple .cbz files into a single .cbz file. It probably still works.
