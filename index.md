@@ -20,6 +20,6 @@ A Phaser 3 project that demos vibrations in Chrome (I couldn't get the Firefox A
 
 ---
 
-## ComicMerge
+## [ComicMerge](https://github.com/khutchins/ComicMerge)
 
 A python script I wrote years ago that allows you to merge multiple .cbz files into a single .cbz file. It probably still works.
