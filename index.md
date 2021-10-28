@@ -8,7 +8,11 @@ This is a summary of my projects that I think are publicly interesting, with the
 
 A library for Unity that make it easy to generate and maintain a simple menu through code.
 
----
+[![pomerandomian](https://user-images.githubusercontent.com/1243720/139178083-30db7fb8-11de-4ec7-a6d3-97a228e7e244.jpg)](https://github.com/khutchins/pomerandomian)
+
+## [Pomerandomian](https://github.com/khutchins/pomerandomian)
+
+A library for Unity that simplifies the creation of repeatable, seedable PRNGs.
 
 ## [Phaser 3 Dead Zone Demo](https://github.com/khutchins/phaser-dead-zone-demo)
 
