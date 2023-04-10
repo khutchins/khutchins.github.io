@@ -1,4 +1,4 @@
-This is a summary of my projects that I think are publicly interesting, with the primary purpose of actually having search engines pick them up. Most likely out of date and with images way to big for pleasant reading.
+This is a summary of my projects that I think are publicly interesting, with the primary purpose of actually having search engines pick them up (doesn't seem to have worked). Most likely out of date and with images way to big for pleasant reading.
 
 ---
 
@@ -14,13 +14,23 @@ A library for Unity that make it easy to generate and maintain a simple menu thr
 
 A library for Unity that simplifies the creation of repeatable, seedable PRNGs.
 
+[![ratferences](https://user-images.githubusercontent.com/1243720/230839131-5d6e3580-88bf-4835-9710-71d1f9d5ad10.jpg)](https://github.com/khutchins/ratferences)
+
+## [Ratferences](https://github.com/khutchins/ratferences)
+
+Yet another scriptable object references library, but mine.
+
 ## [Phaser 3 Dead Zone Demo](https://github.com/khutchins/phaser-dead-zone-demo)
 
-A Phaser 3 project that demos different types of controller dead zones. Click [https://blog.khutchins.com/posts/phaser-3-inputs-ab/](here) to see it in action.
+A Phaser 3 project that demos different types of controller dead zones. Click [here](https://blog.khutchins.com/posts/phaser-3-inputs-ab/) to see it in action.
 
 ## [Phaser 3 Controller Vibration Demo](https://github.com/khutchins/phaser-vibration-demo)
 
-A Phaser 3 project that demos vibrations in Chrome (I couldn't get the Firefox API to work, but it should magically work if Firefox honors their existing API). Click [https://blog.khutchins.com/posts/phaser-3-inputs-ac/] here to see it in action.
+A Phaser 3 project that demos vibrations in Chrome (I couldn't get the Firefox API to work, but it should magically work if Firefox honors their existing API). Click [here](https://blog.khutchins.com/posts/phaser-3-inputs-ac/) to see it in action.
+
+## [Phaser 3 Text Box Animation Demo](https://github.com/khutchins/phaser-text-demo)
+
+A Phaser 3 project that demos proper text box animations. Click [here](https://blog.khutchins.com/posts/better-text-boxes-1/) to see it in action.
 
 ---
 
