@@ -20,6 +20,8 @@ A library for Unity that simplifies the creation of repeatable, seedable PRNGs.
 
 Yet another scriptable object references library, but mine.
 
+---
+
 ## [Phaser 3 Dead Zone Demo](https://github.com/khutchins/phaser-dead-zone-demo)
 
 A Phaser 3 project that demos different types of controller dead zones. Click [here](https://blog.khutchins.com/posts/phaser-3-inputs-ab/) to see it in action.
@@ -33,6 +35,10 @@ A Phaser 3 project that demos vibrations in Chrome (I couldn't get the Firefox A
 A Phaser 3 project that demos proper text box animations. Click [here](https://blog.khutchins.com/posts/better-text-boxes-1/) to see it in action.
 
 ---
+
+## [ComicMergeJS](https://github.com/khutchins/ComicMergeJS)
+
+A simple page that uses your browser to merge multiple .cbz files into a single .cbz file. Much more convenient.
 
 ## [ComicMerge](https://github.com/khutchins/ComicMerge)
 
